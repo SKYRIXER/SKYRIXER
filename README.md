@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @SKYRIXER
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-- 📫 How to reach me by gmail
-
-<!---
-SKYRIXER/SKYRIXER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi im skyrixer i like to code.
+- Right now im learning c# and next.js.
+- Best way to reach me is by gmail.
