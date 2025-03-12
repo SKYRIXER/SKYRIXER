@@ -1,3 +1,4 @@
-- Hi im skyrixer i like to code.
-- Right now im learning python.
-- Best way to reach me is by gmail.
+Im Skyrixer. 
+Im ICT Engineer student
+I like to code
+Most used languages: next.js, js and tailwind
