@@ -2,4 +2,4 @@
 - Im ICT Engineer student
 - I like to code
 - Most used languages: next.js, js and tailwind
-- LinkedIn: linkedin.com/in/veeti-jokiranta/ 
+- LinkedIn: www.linkedin.com/in/veeti-jokiranta/ 
